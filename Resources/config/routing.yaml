@@ -1,0 +1,3 @@
+dependent_select:
+  path: /dependent_select
+  defaults: { _controller: Evercode\DependentSelectBundle\Controller\DependentFilteredEntityController::options }
