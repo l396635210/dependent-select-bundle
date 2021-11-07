@@ -22,7 +22,7 @@
         }
     ],
     "require": {
-        "php": ">=5.7.0",
+        "php": ">=5.7.0"
     },
     "suggest": {
         "sonata-project/admin-bundle": "master-dev",
